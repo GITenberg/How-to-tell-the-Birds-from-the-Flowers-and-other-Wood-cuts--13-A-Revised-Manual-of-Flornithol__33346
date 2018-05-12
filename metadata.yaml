@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/668
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Wood
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33346#How-to-tell-the-Birds-from-the-Flowers-and-other-Wood-cuts--13-A-Revised-Manual-of-Flornithol_
 gutenberg_issued: '2010-08-04'
 gutenberg_type: Text
 identifiers:
