@@ -1,0 +1,30 @@
+_repo: How-to-tell-the-Birds-from-the-Flowers-and-other-Wood-cuts--13-A-Revised-Manual-of-Flornithol__33346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33346-h/images/fcover-s.jpg
+creator:
+  author:
+    agent_name: Wood, Robert Williams
+    alias: Wood, R. W. (Robert Williams)
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '668'
+    url: http://www.gutenberg.org/2009/agents/668
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Wood
+description: Illustrated by the author.
+gutenberg_issued: '2010-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature study -- Humor'
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+title: "How to tell the Birds from the Flowers, and other Wood-cuts\r\nA Revised Manual\
+  \ of Flornithology for Beginners"
+url: http://www.gutenberg.org/ebooks/33346
